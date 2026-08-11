@@ -51,7 +51,7 @@ Em resumo, você pode pensar no Copilot como um colega de trabalho muito especia
       # Validate student is not already signed up
       ```
 
-      <img width="700" alt="Copilot shadow text suggestion in the editor" src="../images/shadow-text.gif" />
+      <img width="700" alt="Copilot shadow text suggestion in the editor" src="https://github.com/treinamentos-serpro/skills-getting-started-with-github-copilot-ttp/blob/main/.github/images/shadow-text.gif?raw=true" />
 
    1. Pressione `Tab` para aceitar a sugestão do Copilot e converter o texto sombreado em código.
 
@@ -92,7 +92,7 @@ O **Inline Chat** e o painel do **Copilot Chat** são similares, mas diferem no 
 
 1. Selecione todo o dicionário `activities` clicando e arrastando do topo até o final. Isso ajuda a fornecer contexto para o Copilot no próximo prompt.
 
-   <img width="700" alt="Highlighted activities dictionary before opening inline chat" src="../images/activities-dict-highlighted.png" />
+   <img width="700" alt="Highlighted activities dictionary before opening inline chat" src="https://github.com/treinamentos-serpro/skills-getting-started-with-github-copilot-ttp/blob/main/.github/images/activities-dict-highlighted.png?raw=true" />
 
 
 1. Abra o Inline Chat do Copilot usando o atalho de teclado `Ctrl + I` (Windows) ou `Cmd + I` (Mac).
@@ -189,7 +189,7 @@ O **Inline Chat** e o painel do **Copilot Chat** são similares, mas diferem no 
 
 1. Encontre o arquivo `app.py` e pressione o sinal `+` para coletar suas alterações na área de staging.
 
-   ![image](../images/staging-changes-icon.png)
+   ![image](https://github.com/treinamentos-serpro/skills-getting-started-with-github-copilot-ttp/blob/main/.github/images/staging-changes-icon.png?raw=true)
 
 1. Acima da lista de alterações em staging, encontre a caixa de texto **Message**, mas **não digite nada** por enquanto.
 

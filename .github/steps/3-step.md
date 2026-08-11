@@ -38,7 +38,7 @@ Vamos usar o Copilot para atualizar o site e exibir os estudantes inscritos em c
 
 1. Na parte inferior da janela do Copilot Chat, use o seletor para trocar para o modo **Agent**.
 
-   <img width="350" alt="image" src="../images/agent-mode-dropdown.png" />
+   <img width="350" alt="image" src="https://github.com/treinamentos-serpro/skills-getting-started-with-github-copilot-ttp/blob/main/.github/images/agent-mode-dropdown.png?raw=true" />
 
 1. Abra os arquivos relacionados à página web e arraste cada aba (ou arquivo) para o painel de chat, informando ao Copilot que eles devem ser usados como contexto.
 
@@ -48,7 +48,7 @@ Vamos usar o Copilot para atualizar o site e exibir os estudantes inscritos em c
 
    > 🪧 **Nota:** Adicionar arquivos como contexto é opcional. Se você pular isso, o Copilot Agent Mode ainda pode usar ferramentas como `#codebase` para buscar arquivos relevantes a partir do seu prompt. Adicionar arquivos específicos ajuda a apontar o Copilot na direção certa, especialmente em bases de código maiores.
 
-   <img width="400" alt="image showing files added to context" src="../images/files-added-to-context.png" />
+   <img width="400" alt="image showing files added to context" src="https://github.com/treinamentos-serpro/skills-getting-started-with-github-copilot-ttp/blob/main/.github/images/files-added-to-context.png?raw=true" />
 
    > 💡 **Dica:** Você também pode usar o botão **Add Context...** para fornecer outras fontes de contexto, como uma issue do GitHub ou o resultado de um terminal.
 
@@ -66,13 +66,13 @@ Vamos usar o Copilot para atualizar o site e exibir os estudantes inscritos em c
 
    Com os botões **Keep** mostrados abaixo, você pode aceitar/descartar todas as mudanças ou revisar uma a uma. Isso pode ser feito no painel de chat ou ao inspecionar cada arquivo editado.
 
-      <img width="900" alt="buttons to keep or discard changes" src="../images/review-changes-buttons.png" />
+      <img width="900" alt="buttons to keep or discard changes" src="https://github.com/treinamentos-serpro/skills-getting-started-with-github-copilot-ttp/blob/main/.github/images/review-changes-buttons.png?raw=true" />
 
 1. Antes de simplesmente aceitar as alterações, abra o site novamente e verifique se tudo foi atualizado conforme esperado.
 
    Aqui está um exemplo de card de atividade atualizado. Pode ser necessário reiniciar o app ou atualizar a página.
 
-   <img width="350" alt="Activity card with participant info" src="../images/activity-card-with-participants.png" />
+   <img width="350" alt="Activity card with participant info" src="https://github.com/treinamentos-serpro/skills-getting-started-with-github-copilot-ttp/blob/main/.github/images/activity-card-with-participants.png?raw=true" />
 
    > 🪧 **Nota:** Seu card pode ficar diferente. O Copilot nem sempre gera o mesmo resultado.
 
@@ -98,11 +98,11 @@ Se não obtiver o resultado desejado, tente outros modelos ou envie feedback de 
 
 1. Verifique se o Copilot ainda está no modo **Agent**.
 
-   <img width="250" alt="agent mode" src="../images/agent-mode-dropdown.png" />
+   <img width="250" alt="agent mode" src="https://github.com/treinamentos-serpro/skills-getting-started-with-github-copilot-ttp/blob/main/.github/images/agent-mode-dropdown.png?raw=true" />
 
 1. Clique no ícone de **Tools** e explore todas as ferramentas disponíveis para o Copilot Agent Mode.
 
-   <img width="250"  alt="tools icon" src="../images/tools-icon.png" />
+   <img width="250"  alt="tools icon" src="https://github.com/treinamentos-serpro/skills-getting-started-with-github-copilot-ttp/blob/main/.github/images/tools-icon.png?raw=true" />
 
 1. Hora do teste! Vamos pedir ao Copilot para adicionar a funcionalidade de remover participantes.
 
